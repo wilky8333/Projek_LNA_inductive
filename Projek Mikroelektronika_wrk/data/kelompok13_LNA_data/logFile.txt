@@ -1,0 +1,21 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Thu Jun 12 19:54:43 2025
+      Running on host: "LAPTOP-E8S7CAAA"
+      In Directory: "C:\Users\Wilky Martin\Projek Mikroelektronika_wrk\data"
+      Process ID: 19236
+
+Warning detected by hpeesofsim during netlist flattening.
+    Inductor `L2' L=1e+09 is unusually large.
+Warning detected by hpeesofsim during circuit set up.
+    Capacitor `C2' C=0.5787 is unusually large.
+
+SP SP1[1] <Projek Mikroelektronika_lib:kelompok13_LNA:schematic>   freq=(1 GHz->8 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.47 seconds.
+

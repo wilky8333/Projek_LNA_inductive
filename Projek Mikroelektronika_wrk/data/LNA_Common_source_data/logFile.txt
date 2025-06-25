@@ -1,0 +1,24 @@
+
+hpeesofsim (*) 550.shp Jul 24 2021, MINT version 5
+    (64-bit windows built: Sat Jul 24, 2021 16:09:49 +0000)
+
+
+***** Simulation started at Thu Jun 12 22:04:52 2025
+      Running on host: "LAPTOP-E8S7CAAA"
+      In Directory: "C:\Users\Wilky Martin\Projek Mikroelektronika_wrk\data"
+      Process ID: 23248
+
+Warning detected by hpeesofsim during netlist flattening.
+    Resistor `R2' is shorted.
+
+Warning detected by hpeesofsim during netlist flattening.
+    Resistor `R7' is shorted.
+
+Pt DC convergence is used.
+
+SP SP1[1] <Projek Mikroelektronika_lib:LNA Common source:schematic>   freq=(3 GHz->6 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.46 seconds.
+
